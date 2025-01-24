@@ -20,10 +20,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por codifica�
 
 ![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=gui12carmo&show_icons=true&theme=radical)
 
-## 🏆 Troféus do GitHub
-
-![Troféus do GitHub de Guilherme](https://github-profile-trophy.vercel.app/?username=gui12carmo&theme=radical)
-
 ## 🔗 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-vfcarmo)
@@ -32,3 +28,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por codifica�
 ---
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou ideias para colaboração!
+![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
