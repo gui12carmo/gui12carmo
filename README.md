@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme do Carmo 👋
+# Olá, eu sou Guilherme Carmo 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por codificação, games e estou aprendendo novas tecnologias, faço contribuições para projetos de código aberto. Quer fazer um jogo top fala comigo.
 
