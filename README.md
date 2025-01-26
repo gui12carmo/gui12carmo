@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por codifica�
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 
-## 📈 Estatísticas do GitHu
+## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=gui12carmo&show_icons=true&theme=radical)
 
