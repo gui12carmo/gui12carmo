@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por codifica�
 ## 🚀 Sobre Mim
 
 - 💻 Atualmente, estou trabalhando como Helpdesk. :(
-- 🌱 Estou aprendendo atualmente focado em Kotlin e Android Studio.
+- 🌱 Estou aprendendo atualmente focado em IOS, Kotlin e Android Studio.
 - 👯 Estou procurando colaborar em novos projetos ou estudos.
 - ⚡ Fato curioso: gosto de games e quero fazer um.
 
