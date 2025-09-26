@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Guilherme Carmo desenvolvedor apaixonado por 
 
 ## 🚀 Sobre Mim
 
-- 💻 Atualmente, estou trabalhando como Helpdesk. :(
+- 💻 Atualmente, estou trabalhando como Helpdesk.
 - 🌱 Estou aprendendo atualmente focado em IOS, Kotlin e Android Studio.
 - 👯 Estou procurando colaborar em novos projetos ou estudos.
 - ⚡ Fato curioso: gosto de games e quero fazer um.
